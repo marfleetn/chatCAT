@@ -16,7 +16,7 @@ chatCAT is a sophisticated AI conversation cataloguing system that automatically
 - **🔍 Advanced Search**: Full-text search with relevance ranking and term highlighting
 - **🏷️ Tagging System**: Colour-coded tags to organise your conversations
 - **📝 Notes**: Add personal notes to any conversation
-- **📊 Dashboard**: MS-DOS inspired retro interface with statistics
+- **📊 Dashboard**: A clean retro inspired interface with core statistics and search tools
 - **🌐 Multi-Platform**: Supports 9 major AI platforms
 
 ## 🤖 Supported Platforms
