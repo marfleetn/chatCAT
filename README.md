@@ -197,7 +197,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgements
 
 - Inspired by the need to organise AI conversations across multiple platforms
-- MS-DOS aesthetic for that retro computing feel
+- MS-DOS aesthetic for that retro computing feel (because I'm old)
 - Built with Python, JavaScript, and SQLite
 
 ## 📬 Contact
